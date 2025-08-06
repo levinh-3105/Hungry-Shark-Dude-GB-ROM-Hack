@@ -26,17 +26,6 @@ Welcome to my personal project where I reverse engineer the classic **Game Boy**
 
 ---
 
-## 📂 Repository Structure
-
-├── disassembly/ # Decompiled and annotated code from the ROM
-├── assets/ # Extracted or custom sprite/tile assets
-├── docs/ # Technical notes, memory maps, game logic
-├── tools/ # Custom scripts (Python, etc.) for reverse engineering
-├── patches/ # IPS/UPS patches for modified versions
-└── README.md # This file
-
----
-
 ## 🧪 Development Environment
 
 - ROM hacking tools (e.g. `rgbds`, `bgb`, `no$gmb`)
