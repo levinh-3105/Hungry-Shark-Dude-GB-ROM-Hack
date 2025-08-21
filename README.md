@@ -6,7 +6,7 @@ Welcome to my personal project where I reverse engineer the classic **Game Boy**
 
 ## 🎮 Project Overview
 
-**Fish Dude** is a 1990 Game Boy game featuring a small fish trying to survive in the ocean. This project aims to dissect the original game, understand its mechanics, and enhance it by introducing new gameplay elements, mechanics, and goals similar to the *Hungry Shark* series — where you grow by eating smaller fish and avoiding larger predators.
+**Fish Dude** is a 1992 Game Boy game featuring a small fish trying to survive in the ocean. This project aims to dissect the original game, understand its mechanics, and enhance it by introducing new gameplay elements, mechanics, and goals similar to the *Hungry Shark* series — where you grow by eating smaller fish and avoiding larger predators.
 
 ---
 
@@ -47,7 +47,7 @@ Welcome to my personal project where I reverse engineer the classic **Game Boy**
 ## ⚠️ Legal Disclaimer
 
 > This project is for **educational and personal use only**.  
-> *Fish Dude* is property of **Electro Brain Corp.**, and *Hungry Shark* is owned by **Ubisoft**.  
+> *Fish Dude* is property of **SOFEL**, and *Hungry Shark* is owned by **Ubisoft**.  
 > I do **not** distribute copyrighted ROMs.
 >
 > To comply with fair use and legal boundaries:
