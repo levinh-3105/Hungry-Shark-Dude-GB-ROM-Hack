@@ -1,4 +1,9 @@
 # MEMORY MAP
 ---
-- The Fish counter (15 by default): C829 (Format: BCD)
-- Initial value for Fish counter is ld at 11D5
+- The Fish counter (15 or 20 by default base on level): C829 (Format: BCD)
+## Default Fish Count Table
+
+| 1-1  | 1-2  | 1-3  | 2-1  | 2-2  | 2-3  | 3-1  | 3-2  | 3-3  | A-1  | A-2  | A-3  | B-1  | B-2  | B-3  | C-1  | C-2  | C-3  |
+|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| 1281 | 1282 | 1283 | 1284 | 1285 | 1286 | 1287 | 1288 | 1289 | 128A | 128B | 128C | 128D | 128E | 128F | 1290 | 1291 | 1292 |
+
