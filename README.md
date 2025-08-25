@@ -10,6 +10,12 @@ Welcome to my personal project where I reverse engineer the classic **Game Boy**
 
 ---
 
+## ❓ How to play this game
+
+Uses a ROM patching website like https://www.marcrobledo.com/RomPatcher.js/  , put in the patch file from here and your ROM (Fish Dude (USA)).
+
+---
+
 ## 🚧 Project Goals
 
 - ✅ Reverse engineer the *Fish Dude* ROM
