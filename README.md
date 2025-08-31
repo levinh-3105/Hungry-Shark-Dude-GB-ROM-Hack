@@ -18,8 +18,14 @@ Welcome to my personal project where I reverse engineer the classic **Game Boy**
 ## ❓ How to play this game
 
 Uses a ROM patching website like https://www.marcrobledo.com/RomPatcher.js/  , put in the patch file from here and your ROM (Fish Dude (USA)).
+You can change the Map using those passwords:
 
----
+
+Passwords (US)
+| 2-1 | 2-2 | 2-3 | 3-1 | 3-2 | 3-3 | A-1 | A-2 | A-3 | B-1 | B-2 | B-3 | C-1 | C-2 | C-3 |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| EJ  | BZ  | UQ  | WA  | NR  | GI  | CH  | ZP  | LK  | XV  | DA  | MU  | TY  | FO  | SE  |
+
 
 ## 🚧 Project Goals
 
