@@ -1,13 +1,16 @@
 # 🦈 Hungry Shark Dude: Reverse Engineered & Reimagined
 
 Welcome to my personal project where I reverse engineer the classic **Game Boy** game *Fish Dude* and transform it into a gameplay experience inspired by the modern mobile hit *Hungry Shark*.
-![Title screen](Gameplay Images/title_screen)
-![3-1 Gameplay](Gameplay Images/Gameplay(3-1))
+
 ---
 
 ## 🎮 Project Overview
 
 **Fish Dude** is a 1992 Game Boy game featuring a small fish trying to survive in the ocean. This project aims to dissect the original game, understand its mechanics, and enhance it by introducing new gameplay elements, mechanics, and goals similar to the *Hungry Shark* series — where you grow by eating smaller fish and avoiding larger predators.
+
+![Title screen](Gameplay Images/title_screen)
+
+![3-1 Gameplay](Gameplay Images/Gameplay(3-1))
 
 ---
 
