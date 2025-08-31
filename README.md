@@ -1,7 +1,8 @@
 # 🦈 Hungry Shark Dude: Reverse Engineered & Reimagined
 
 Welcome to my personal project where I reverse engineer the classic **Game Boy** game *Fish Dude* and transform it into a gameplay experience inspired by the modern mobile hit *Hungry Shark*.
-
+![Title screen](Gameplay Images/title_screen)
+![3-1 Gameplay](Gameplay Images/Gameplay(3-1))
 ---
 
 ## 🎮 Project Overview
