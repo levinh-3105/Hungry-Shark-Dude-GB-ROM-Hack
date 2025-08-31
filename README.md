@@ -45,10 +45,11 @@ Passwords (US)
 
 ## 🧪 Development Environment
 
-- ROM hacking tools (e.g. `rgbds`, `bgb`, `no$gmb`)
-- Disassemblers like `Ghidra`, `mGBA` debugger, or `IDA Pro`
-- Hex editor (e.g. `HxD`)
-- Emulator for testing (e.g. `bgb`, `SameBoy`)
+- ROM hacking tools: YY-CHR
+- Disassemblers: Ghidra
+- Hex editor: HxD
+- Emulator for testing and debugging: BGB
+- Tile design: GIMP
 
 ---
 
@@ -58,6 +59,7 @@ Passwords (US)
 - [Fish Dude ROM](Use your legally obtained copy)
 - Game Boy technical manuals
 - Hungry Shark gameplay references (Ubisoft/Future Games of London)
+- Fish Dude FAQ (https://gamefaqs.gamespot.com/gameboy/585711-fish-dude/faqs/61170)
 
 ---
 
